@@ -1,0 +1,31 @@
+﻿---
+title: Sydney dag 2 (13-11-2007)
+author: rogier
+type: post
+date: 2007-11-15T13:57:00+01:00
+url: /weblog/2007/11/15/sydney-dag-2-13-11-2007/
+commentFolder: 2007-11-15-sydney-dag-2-13-11-2007
+categories:
+- Vakantie
+tags:
+- Australie
+resources:
+- src: Dag7-Darling-Harbour-752479.jpg
+  title: Sydney - Darling Harbour
+- src: Dag7-Opera-House-705993.jpg
+  title: Sydney - Opera House bij schemering
+- src: Dag7-Pancakes-on-the-Rocks-746381.jpg
+  title: Pancakes on the Rocks - Hot ‘n’ Troppo en een Devils Delight
+
+---
+{{< img "Dag7-Darling-Harbour-752479.jpg" ""  "Sydney - Darling Harbour" >}}Na gisteren al een redelijk stuk van Sydney gezien te hebben, gingen we nu voor de overige wijken die we nog niet gezien hadden. We begonnen met Darling Harbour. Kent iedereen nog die scène uit de film Finding Nemo, waarin zijn vader de haven van Sydney bereikt en Nemo weet te ontsnappen de haven in? Nou, volgens mij heeft deze haven daar model voor gestaan. Heel veel bootjes in een grote U, met aan het uiteinde een grote loopbrug er overheen. Verder voor de toeristen natuurlijk genoeg om te zien (2 natuurparkjes: soort SeaLife en een Wildlife-achtig park) en natuurlijk een paar grote winkelcentrums afgeladen met souvenirwinkels en restaurantjes. Leg daar dan nog een monorail doorheen en je hebt een echte toeristenmagneet. Ondanks dit alles, vonden wij de sfeer er toch erg lekker en zijn we hier zelfs ’s avonds nog naar toe terug gegaan om iets te eten, maar daarover later meer.  
+
+Eerst waren we nieuwsgierig hoe een bioscoop in Australië er vanbinnen uit zou zien. Na een flinke wandeling vanaf Darling Harbour naar de bioscoop (want een bioscoop is tussen al die wolkenkrabbers nog niet zo makkelijk te vinden!), kwamen we aan bij de [Greater Union Cinemas](http://www.greaterunion.com.au/) op George Street. Dit was een redelijk grote bioscoop met 12 zalen. Na een kaartje en wat drinken gekocht te hebben (de bar boven was gesloten vanwege een verbouwing), konden we naar zaal 2. Dit bleek een flink grote zaal te zijn, waar je halverwege met een trap binnen kwam en daarna dus zowel naar boven als naar beneden stoelen had. Wij zaten precies boven die ingang halverwege, waardoor we dus een perfect zicht hadden op het scherm. De film die we daarop gekeken hebben was: [Lion for Lambs](http://www.imdb.com/title/tt0891527/). Een film met Robert Redford, Meryl Streep en Tom Cruise, over de oorlog in Afghanistan en wat jij als individu nu precies doet om de wereld te verbeteren. Dit klinkt misschien een beetje saai, maar dat is het zeker niet. De film wisselt erg goed af tussen actie en wat meer psychologische gesprekken, waardoor zowel Nathalie als ik de film erg goed vonden. Dus als hij uit komt of al is in Nederland, zeker een aanrader.  
+{{< img "Dag7-Opera-House-705993.jpg" ""  "Sydney - Opera House bij schemering" >}}Na de film zijn we naar een groot warenhuis gegaan wat we gisteren vanuit de bus hadden gezien: [David Jones](http://www.davidjones.com.au). Bij aankomst zagen we een man in pak buiten staan, dus even dachten we dat de winkel al gesloten was en deze man iedereen vriendelijk stond te vertellen dat je niet meer naar binnen mocht. Het tegenovergestelde bleek echter waar, deze man stond er speciaal om de deur voor je open te houden! En dat was nog niet het enige, op elke etage kwam je echt om de paar meter een medewerker tegen, strak in pak, die netjes vroeg of hij je ergens mee kon helpen. Mij deed het sterk denken aan de Bijenkorf, maar dan nog 10x chiquer. Om 2 voorbeelden te geven van hoe chique het wel niet was: het was koopavond en iedere bezoeker kreeg na binnenkomst een glas champagne, en op de bovenste etage was de duurste kleding uitgestald, net naast de roltrap hing een aardig zomerjurkje, niets speciaals, behalve dan de prijs: $4600! Je raadt het al, dit ging ons budget iets te boven, dus vonden we het tijd om op zoek te gaan naar iets te eten.  
+{{< img "Dag7-Pancakes-on-the-Rocks-746381.jpg" ""  "Pancakes on the Rocks - Hot ‘n’ Troppo en een Devils Delight" >}}Aangezien we in de Lonely Planet hadden gelezen dat er veel restaurants in de wijk The Rocks (net onder de Harbour Bridge) zouden zitten, zijn we daarheen gelopen. Daar aangekomen konden we echter niets vinden wat ons aansprak. Het meeste was of te duur, of te ongezellig of gewoon domweg al dicht. Gelukkig hadden we tijdens ons bezoek aan Darling Harbour ook een leuk restaurantje gezien, wat ook nog eens niet al te ver lopen was vanuit The Rocks. Bij [Pancakes on the Rocks](http://www.pancakesontherocks.com.au) hebben we voor weinig geld een overheerlijke avondmaaltijd gehad, bestaande uit pannenkoeken met chocolade en fruit! (Hot ‘n’ Troppo en een Devils Delight).  
+Als afsluiter van ons bezoek aan Sydney wilden we nog een bezoek brengen aan het hoogste punt van Sydney, namelijk de SkyTower. Net als in Melbourne is dit de hoogste toren in de stad, die open is voor toeristen. Wij hadden bedacht dat het wel leuk zou zijn om dit ’s avonds te doen. Vanuit het restaurant zijn we daarom op ons gemak naar de toren gelopen, waar we rond 21:45 aankwamen. Tot onze grote verbazing was de kassa toen echter al gesloten, terwijl op het bordje met de openingstijden toch echt 22:30 stond! :-( Na wat rondvragen bij de security kwamen we erachter dat de kaartverkoop al ruim een uur voor sluitingstijd stopte en dat vanaf dat moment alleen de mensen met een kaartje (duhhuh!) nog naar boven mochten. Kortom, we hadden een flink stuk gelopen voor helemaal noppes… Met een beetje een ontevreden gevoel zijn we toen maar teruggelopen naar het station om van daar uit weer naar ons motel te gaan. Een nieuwe kans om deze toren te bezoeken hadden we namelijk niet, want volgens onze planning zouden we morgen al weer gaan rijden richting Charlestown.  
+
+Ps. Hierbij wil ik iedereen nog even heel hartelijk bedanken voor alle felicitaties ivm mijn 29ste verjaardag. Ik zou zeggen, iedereen is welkom om hier in Australië een drankje met mij te komen drinken! Cheers mates! :-)  
+
+Ps2. Lees ook het verhaal hieronder nog even, want als cadeautje van mijn kant hebben we vandaag twee stukken tegelijk online gezet. Veel leesplezier!  
+[](http://www.sydneytoweroztrek.com.au/)
