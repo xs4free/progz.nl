@@ -1,0 +1,3 @@
+[submodule "themes/hugo-travello-theme"]
+	path = themes/hugo-travello-theme
+	url = https://github.com/xs4free/hugo-travello-theme.git

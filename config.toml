@@ -1,0 +1,51 @@
+DefaultContentLanguage = "nl"
+title = "Road trippin'"
+theme = "hugo-travello-theme"
+
+copyright = "Rogier en Angelica Reedijk"
+
+baseurl = "/"
+buildDrafts = false
+preserveTaxonomyNames = true
+paginate = 3
+#disqusShortname = "shortname"
+googleAnalytics = ""
+pluralizeListTitles = false
+# Set the followings to true as part of your site SEO
+enableRobotsTXT = true
+canonifyURLs = true
+
+[imaging]
+  # Default resample filter used for resizing. Default is Box,
+  # a simple and fast averaging filter appropriate for downscaling.
+  # See https://github.com/disintegration/imaging
+  resampleFilter = "box"
+
+  # Defatult JPEG quality setting. Default is 75.
+  quality = 80
+
+  # Anchor used when cropping pictures.
+  # Default is "smart" which does Smart Cropping, using https://github.com/muesli/smartcrop
+  # Smart Cropping is content aware and tries to find the best crop for each image.
+  # Valid values are Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  anchor = "smart"
+
+[params]
+  # Sets the title below the main title
+  subtitle = "Around the world in 41 days"
+
+[params.comments]
+  comments = true
+
+# Disqus will take priority over Staticman (github.com/eduardoboucas/staticman)
+# due to its ease of use. Feel free to check out both and decide what you would
+# prefer to use. See Staticman.yml for additional settings.
+[params.staticman]
+  # Sets Statiman to be active
+  staticman = true
+  api       = "http://localhost:7071/api/PostComment"
+  #api       = "https://static-comments-to-git.azurewebsites.net/api/PostComment"
+  akismet   = true
+
+[params.staticman.recaptcha]
+  sitekey = "6LegB4YUAAAAAJTBaaLSIIKgByn1psZ4vcr1sTMV"
