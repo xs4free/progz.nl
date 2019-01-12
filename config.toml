@@ -43,8 +43,8 @@ canonifyURLs = true
 [params.staticman]
   # Sets Statiman to be active
   staticman = true
-  api       = "http://localhost:7071/api/PostComment"
-  #api       = "https://static-comments-to-git.azurewebsites.net/api/PostComment"
+  #api       = "http://localhost:7071/api/PostComment"
+  api       = "https://static-comments-to-git.azurewebsites.net/api/PostComment"
   akismet   = true
 
 [params.staticman.recaptcha]
