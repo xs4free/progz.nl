@@ -32,7 +32,7 @@ canonifyURLs = true
 
 [params]
   # Sets the title below the main title
-  subtitle = "Around the world in 41 days"
+  subtitle = "Around the world in 58 days"
 
 [params.comments]
   comments = true
