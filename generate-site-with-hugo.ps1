@@ -1,5 +1,5 @@
 Param(
-    [string] $hugoUri = "https://github.com/gohugoio/hugo/releases/download/v0.51/hugo_extended_0.51_Windows-64bit.zip",
+    [string] $hugoUri = "https://github.com/gohugoio/hugo/releases/download/v0.53/hugo_extended_0.53_Windows-64bit.zip",
     [string] $destinationFolder = ".\public"
 )
 
