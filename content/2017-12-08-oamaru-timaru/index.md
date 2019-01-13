@@ -9,6 +9,7 @@ categories:
 - Wereld trip 2017
 tags:
 - Nieuw Zeeland
+images: ["20171207-IMG_7517.jpg"]
 resources:
 - src: 20171207-IMG_7517.jpg
   title: Strand Timaru

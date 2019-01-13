@@ -9,7 +9,7 @@ buildDrafts = false
 preserveTaxonomyNames = true
 paginate = 3
 #disqusShortname = "shortname"
-googleAnalytics = ""
+googleAnalytics = "UA-436716-1"
 pluralizeListTitles = false
 # Set the followings to true as part of your site SEO
 enableRobotsTXT = true
@@ -34,6 +34,11 @@ canonifyURLs = true
   # Sets the title below the main title
   subtitle = "Around the world in 58 days"
 
+  # Description used in Twitter as a fallback text when post has description in front-matter
+  description = "Reisverslagen van Rogier en Angelica Reedijk"
+  # Image used in Twitter as a fallback image when post has no image in front-matter
+  images = []
+
 [params.comments]
   comments = true
 
@@ -49,3 +54,8 @@ canonifyURLs = true
 
 [params.staticman.recaptcha]
   sitekey = "6LegB4YUAAAAAJTBaaLSIIKgByn1psZ4vcr1sTMV"
+
+[taxonomies]
+  # The series taxonomy is used to specify related “see also” pages
+  # https://gohugo.io/templates/internal/#configure-open-graph
+  series = "series"
