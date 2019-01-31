@@ -4,7 +4,7 @@ author: Rogier
 type: post
 date: 2019-01-21T20:48:00+01:00
 url: /weblog/2019/01/21/voorbereidingen-in-volle-gang/
-commentFolder: 2019-01-21-voorbereidingen-in-volle-gang
+commentFolder: 2019-01-21-voorbereiding-in-volle-gang
 categories:
 - Wereld trip 2019
 images: ["disney-world.jpg"]
