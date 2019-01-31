@@ -7,7 +7,7 @@ url: /weblog/2019/01/29/vliegen-en-bijkomen/
 commentFolder: 2019-01-29-vliegen-en-bijkomen
 categories:
 - Wereld trip 2019
-images: ["disney-world.jpg"]
+images: ["01-koffers.jpg"]
 resources:
 - src: 01-koffers.jpg
   title: Onze bagage dit jaar
