@@ -7,7 +7,7 @@ url: /weblog/2019/02/17/kiwis-heet-zeewater-geisers-en-oude-bekenden/
 commentFolder: 2019-02-17-kiwis-heet-zeewater-geisers-en-oude-bekenden
 categories:
 - Wereld trip 2019
-images: ["03-ondergaande-zon-baai.jpg"]
+images: ["22-te-puia-rook.jpg"]
 resources:
 - src: 01-weg-naar-kawhia.jpg
   title: De weg naar Kawhia
