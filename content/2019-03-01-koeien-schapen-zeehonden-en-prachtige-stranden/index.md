@@ -176,11 +176,11 @@ Wist je dat:
 - We in Tauranga Bay meerdere Weka’s hebben zien lopen?
 - Fabiënne deze nu kippies noemt? 😊
 - De rit naar Tauranga Bay door de Buller Gorge ook erg mooi was?
-- We tijdens een korte tussenstop in de Buller Gorge meer dan 10 sandfly’s in onze auto hadden?
+- We tijdens een korte tussenstop in de Buller Gorge meer dan 10 sandflies in onze auto hadden?
 - Deze beestje erger zijn dan muggen en vaak direct in de aanval gaan?
-- Wij dus eerst 10 minuten bezig zijn geweest om alle sandfly’s in de auto te doden?
+- Wij dus eerst 10 minuten bezig zijn geweest om alle sandflies in de auto te doden?
 - Rogier desondanks weer 2 mooie rode jeukende plekken erbij heeft?
-- Die sandfly’s het altijd op zijn hielen/benen gemunt lijken te hebben?
+- Die sandflies het altijd op zijn hielen/benen gemunt lijken te hebben?
 - Fabiënne op een of andere manier nog geen enkele keer is gebeten? 
 - De ‘fish’ van de fish-and-chips olifantvis blijkt te zijn? 
 - Wij moesten Googlen wat dit voor vis is?
