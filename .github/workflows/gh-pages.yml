@@ -23,6 +23,13 @@ jobs:
       - name: Build
         run: hugo --minify
 
+      - name: Checkout Home-automation repo (hugo build version)
+        uses: actions/checkout@v2
+        with:
+          repository: xs4free/progz.nl-homeautomation
+          ref: gh-pages
+          path: blog
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
