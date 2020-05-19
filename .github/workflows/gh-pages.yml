@@ -28,7 +28,7 @@ jobs:
         with:
           repository: xs4free/progz.nl-homeautomation
           ref: gh-pages
-          path: blog
+          path: ./public/blog
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
