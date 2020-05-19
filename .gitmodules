@@ -1,4 +1,0 @@
-[submodule "blog"]
-	path = blog
-	url = https://github.com/xs4free/progz.nl-homeautomation.git
-	branch = gh-pages
