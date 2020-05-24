@@ -1,3 +1,7 @@
 [submodule "themes/hugo-travello-theme"]
 	path = themes/hugo-travello-theme
 	url = https://github.com/xs4free/hugo-travello-theme.git
+[submodule "public/blog"]
+	path = public/blog
+	url = https://github.com/xs4free/progz.nl-homeautomation.git
+	branch = gh-pages
