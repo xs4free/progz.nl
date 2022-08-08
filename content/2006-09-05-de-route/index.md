@@ -11,10 +11,10 @@ tags:
 - Amerika
 - westkust
 resources:
-- src: route2_small-717161.gif
+- src: route2_small-717161.png
 
 ---
-[{{< img "route2_small-717161.gif" ""  "" >}}](http://www.progz.nl/weblog/vakantie/uploaded_images/Route2-718456.gif)Aangezien we in Amerika met de auto rond gaan rijden, moeten we natuurlijk ook iets hebben wat op een route lijkt: zie het [grote plaatje](http://www.progz.nl/weblog/vakantie/uploaded_images/Route2-718456.gif). Zoals de trouwe lezers van [Rogiers weblog](http://www.progz.nl/weblog/data/index_personal.html) al weten, is dit ondertussen versie 2 van de route en het aantal bezienswaardigheden wat we aan willen doen is er niet minder op geworden:  
+[{{< img "route2_small-717161.png" ""  "" >}}](http://www.progz.nl/weblog/vakantie/uploaded_images/Route2-718456.gif)Aangezien we in Amerika met de auto rond gaan rijden, moeten we natuurlijk ook iets hebben wat op een route lijkt: zie het [grote plaatje](http://www.progz.nl/weblog/vakantie/uploaded_images/Route2-718456.gif). Zoals de trouwe lezers van [Rogiers weblog](http://www.progz.nl/weblog/data/index_personal.html) al weten, is dit ondertussen versie 2 van de route en het aantal bezienswaardigheden wat we aan willen doen is er niet minder op geworden:  
 1) Los Angeles  
 2) Universal Studios Hollywood  
 3) Disneyland  
