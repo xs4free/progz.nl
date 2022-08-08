@@ -9,7 +9,7 @@ buildDrafts = false
 preserveTaxonomyNames = true
 paginate = 3
 #disqusShortname = "shortname"
-googleAnalytics = "UA-436716-1"
+# googleAnalytics = "UA-436716-1"
 pluralizeListTitles = false
 # Set the followings to true as part of your site SEO
 enableRobotsTXT = true
